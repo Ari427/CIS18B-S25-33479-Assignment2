@@ -1,2 +1,3 @@
 # CIS18B-S25-33479-Assignment2
 Library Application
+To use the Library application, open the project folder in Visual Studio Code. In VS Code, open the file named "LibraryApp.java". Once the file has been opened, you can click the "Run" button at the top of the editor. Now you will just interact with the program in the terminal, where you will see a list of books and magazines available to borrow, you can return a borrowed book, and also search for your book's title in the library. I hope you enjoy the Library application!
